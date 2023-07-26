@@ -117,7 +117,8 @@
   --background-floating: var(--background-1);
   --background-mentioned: #22c5fd10;
   --background-mentioned-hover: #22c5fd15;
-  /* modifiers */
+   --background-image: url(https://i.imgur.com/VgV9NJh.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+           /* modifiers */
   --background-modifier-hover: transparent;
   --background-modifier-active: #b7c2cc;
   --background-modifier-selected: var(--accent-color);
